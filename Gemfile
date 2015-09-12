@@ -14,7 +14,7 @@ end
 
 # gem 'sqlite3'
 
-
+gem 'rails_12factor', group: :production
 
 
 # Use SCSS for stylesheets
